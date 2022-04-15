@@ -37,3 +37,9 @@ body {
     width: 100px;
   }
 }
+
+.p-color {
+  color: #000000;
+  font-style: oblique;
+  font-weight: bold;
+}
